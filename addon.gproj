@@ -1,0 +1,22 @@
+GameProject {
+ ID "RTSOGBetterInteractions"
+ GUID "66591411FBF18649"
+ TITLE "RTSOG Better Interactions"
+ Dependencies {
+  "58D0FB3206B6F859" "5DBD560C5148E1DA" "646D52AF8BB3FF15"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
