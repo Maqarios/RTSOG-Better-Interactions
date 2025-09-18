@@ -32,6 +32,7 @@ SCR_ChimeraCharacter {
       Name "Order Surrender"
      }
      Duration 2
+     "Sort Priority" 2
     }
     RTSOG_OrderReleaseUserAction "{6658A87B9AF1F5C2}" {
      ParentContextList {
@@ -41,6 +42,7 @@ SCR_ChimeraCharacter {
       Name "Order Release"
      }
      Duration 0.5
+     "Sort Priority" 2
     }
     RTSOG_KnockOutUserAction "{6658B66586D5C114}" {
      ParentContextList {
@@ -49,6 +51,7 @@ SCR_ChimeraCharacter {
      UIInfo UIInfo "{6658B6658F5C33FA}" {
       Name "Knock Out"
      }
+     "Sort Priority" 1
     }
    }
   }
